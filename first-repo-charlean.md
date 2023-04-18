@@ -24,3 +24,11 @@ Informational command to see all files/folders plus the hidden ones in the repo
 
 Create a file
 - $ touch first-repo-charlean.md
+
+  229  git clone https://github.com/learn-academy-2023-charlie/charlie-first-repo.git
+  230  cd charlie-first-repo
+  231  git branch
+  232  git fetch origin first-repo-cb
+  233  git checkout first-repo-cb
+  234  git branch
+  235  code .
