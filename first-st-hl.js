@@ -1,2 +1,2 @@
-// scott is typing 
+// scott is typing .
 // henrique is typing
