@@ -65,6 +65,7 @@ Open text editor to make changes
 ## Creating a pull request
 Follow instructions for [Merging to Main on Github](https://github.com/learn-academy-2023-charlie/Syllabus/blob/main/github/pairing-with-github.md) from syllabus
 
+# Branch
 
 ## Deleting stale branches locally
 - $ git checkout main
